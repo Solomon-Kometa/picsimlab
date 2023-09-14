@@ -1,0 +1,15 @@
+<img src="[board] (imported)" width="1452" height="516" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Kometa -->
+<area shape="rect" coords="1,146,143,349" href="I_PG_USB" />
+<area shape="rect" coords="428,410,574,485" href="B_JP_PWR" />
+<area shape="rect" coords="1385,210,1444,286" href="B_PB_RST" />
+<area shape="rect" coords="79,431,145,482" href="O_LR_LED1" />
+<area shape="rect" coords="1376,386,1406,404" href="O_LD_LED2" />
+<area shape="rect" coords="1373,104,1401,121" href="O_LD_LED3" />
+</map>
